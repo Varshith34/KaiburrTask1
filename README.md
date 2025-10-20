@@ -41,4 +41,4 @@ Before running the app, ensure you have:
 ```bash
 mvn clean install
 ```
-![mv clean install]("https://github.com/Varshith34/KaiburrVarshith/blob/7ae8c608b7e66f993cee49554d0624e480538389/mvncleaninstall.png")
+![mv clean install](https://github.com/Varshith34/KaiburrVarshith/blob/7ae8c608b7e66f993cee49554d0624e480538389/mvncleaninstall.png)
