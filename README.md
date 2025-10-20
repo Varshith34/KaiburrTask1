@@ -67,3 +67,9 @@ Import and run this collection to test all endpoints:
 
 > Instructions for using the web interface are in **Task 3**.
 
+### Screenshots
+![ss](https://github.com/Varshith34/KaiburrVarshith/blob/2fbcc3a8a225e2470dfd08b173e7cdca34832470/screenshots/KaiburrProof1.png)
+![ss](https://github.com/Varshith34/KaiburrVarshith/blob/2fbcc3a8a225e2470dfd08b173e7cdca34832470/screenshots/KaiburrProof1.png)
+![ss](https://github.com/Varshith34/KaiburrVarshith/blob/2fbcc3a8a225e2470dfd08b173e7cdca34832470/screenshots/KaiburrProof1.png)
+![ss](https://github.com/Varshith34/KaiburrVarshith/blob/2fbcc3a8a225e2470dfd08b173e7cdca34832470/screenshots/KaiburrProof1.png)
+
