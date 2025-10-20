@@ -32,7 +32,7 @@ Before running the app, ensure you have:
 ## ▶️ Running the Application
 
 
-1. Open `/task1` in your preferred IDE (VS Code ❤️ recommended).  
+1. Open `/task1` in your preferred IDE (VS Code).  
 2. Wait for dependencies and pre-build tasks to finish.  
 3. Build the project:
 
