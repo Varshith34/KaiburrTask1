@@ -31,8 +31,6 @@ Before running the app, ensure you have:
 
 ## ▶️ Running the Application
 
-<details>
-<summary>Click to expand</summary>
 
 1. Open `/task1` in your preferred IDE (VS Code ❤️ recommended).  
 2. Wait for dependencies and pre-build tasks to finish.  
@@ -42,3 +40,30 @@ Before running the app, ensure you have:
 mvn clean install
 ```
 ![mv clean install](https://github.com/Varshith34/KaiburrVarshith/blob/7ae8c608b7e66f993cee49554d0624e480538389/mvncleaninstall.png)
+![mv clean install2](https://github.com/Varshith34/KaiburrVarshith/blob/cc8d2ef4253e77568767351cca661be51270bf65/mvncleaninstall2.png)
+
+## 🐳 Docker Setup
+
+`Dockerfile` example:
+
+```dockerfile
+FROM openjdk:8-alpine
+EXPOSE 8080
+ADD target/demo.jar demo.jar
+ENTRYPOINT ["java", "-Dspring.data.mongodb.uri=mongodb://mongod:27017/servers", "-jar", "/demo.jar"]
+```
+
+## 🧪 Testing the APIs
+
+### Postman
+
+Import and run this collection to test all endpoints:
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/5ff40fbad3968a1b28b0)
+
+> Works with `http://127.0.0.1:8080/servers/`.
+
+### Web UI Forms
+
+> Instructions for using the web interface are in **Task 3**.
+
